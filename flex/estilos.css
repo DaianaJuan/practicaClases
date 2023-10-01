@@ -1,0 +1,36 @@
+.caja{
+    width: 150px;
+    height: 150px;
+}
+
+.rojo{
+    background-color:red;
+}
+.naranja{
+    background-color:orangered;
+}
+.azul{
+    background-color:blue;
+}
+.rosa{
+    background-color:palevioletred;
+}
+.amarillo{
+    background-color: yellow;
+}
+
+.contenedor_padre{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: space-between;
+    justify-content: space-evenly;
+    align-items: baseline;
+}
+
+
+
+
+.verde{
+    background-color: green;
+}
